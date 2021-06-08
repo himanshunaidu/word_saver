@@ -1,0 +1,6 @@
+host = 'localhost'
+user = 'root'
+password = 'root'
+db = 'gre_backup'
+word_table = 'word_meanings'
+reject_table = 'reject_words'
