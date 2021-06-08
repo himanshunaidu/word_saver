@@ -1,4 +1,6 @@
 /Backup1
-__init__.py
 word-meanings.txt
 words_done.txt
+/__pycache__
+/WordMeaningsDB/__pycache__
+/WordMeaningsSaver/__pycache__
